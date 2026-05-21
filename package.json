@@ -1,0 +1,52 @@
+{
+  "name": "nebula-sentinel",
+  "version": "0.8.2",
+  "description": "AI-native Security Operations Center powered by MiMo V2.5 — multi-agent threat reasoning and autonomous incident response",
+  "private": false,
+  "license": "MIT",
+  "author": "Nebula Sentinel Contributors",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YOUR_USERNAME/nebula-sentinel-ai-soc.git"
+  },
+  "homepage": "https://github.com/YOUR_USERNAME/nebula-sentinel-ai-soc#readme",
+  "bugs": {
+    "url": "https://github.com/YOUR_USERNAME/nebula-sentinel-ai-soc/issues"
+  },
+  "keywords": [
+    "security",
+    "soc",
+    "ai",
+    "mimo",
+    "threat-intelligence",
+    "incident-response",
+    "mcp",
+    "multi-agent",
+    "nextjs",
+    "cybersecurity"
+  ],
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint"
+  },
+  "dependencies": {
+    "next": "16.2.6",
+    "react": "19.2.4",
+    "react-dom": "19.2.4"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "16.2.6",
+    "tailwindcss": "^4",
+    "typescript": "^5"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  }
+}
